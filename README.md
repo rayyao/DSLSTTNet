@@ -11,9 +11,9 @@ ViSha dataset is available at  **[ViSha Homepage](https://erasernut.github.io/Vi
  cuda==11.3
  torch==1.11.0
  torchvision==0.12.0
- MedPy==0.4.0
+ medpy==0.4.0
  numpy==1.24.4
- Pillow==10.0.0
+ pillow==10.0.0
  scipy==1.10.1
  tqdm==4.65.0
 ```
