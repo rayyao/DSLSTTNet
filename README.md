@@ -24,7 +24,7 @@ ViSha dataset is available at  **[ViSha Homepage](https://erasernut.github.io/Vi
  python test.py
 ```
 
-Download pretrained models from [official](https://github.com/microsoft/Swin-Transformer), and put it into `./dslstt/pretrain_model` folder. Our pretrained model is available [here](https://drive.google.com/×××).
+Our pretrained model is available [here](https://drive.google.com/×××).
 
 ## Results
 
