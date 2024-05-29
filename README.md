@@ -25,15 +25,3 @@ ViSha dataset is available at  **[ViSha Homepage](https://erasernut.github.io/Vi
 ```
 
 Our pretrained model is available [here](https://drive.google.com/×××).
-
-## Results
-
-Ours prediction results can be viewed [here](https://drive.google.com/×××).
-
-## Note
-
-The detailed code will be fully disclosed in the future.
-
-## Acknowledgement
-
-This code is based on [ShadowSAM](https://github.com/harrytea/Detect-AnyShadow).
