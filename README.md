@@ -24,4 +24,4 @@ ViSha dataset is available at  **[ViSha Homepage](https://erasernut.github.io/Vi
  python test.py
 ```
 
-Our pretrained model is available [here]([https://drive.google.com/×××](https://pan.baidu.com/s/1wmE6XWpgrxcpTXBiuRHyfw))(code:u2mg).
+Our pretrained model is available [here](https://pan.baidu.com/s/1wmE6XWpgrxcpTXBiuRHyfw)(code:u2mg).
